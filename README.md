@@ -1,6 +1,6 @@
 # M3W4 - Proyecto SPA con Local Storage
 
-Este proyecto es una aplicación web interactiva desarrollada como parte de la hoja de trabajo del **Módulo 3 Semana 4**, enfocada en el uso del DOM, Local Storage y Session Storage.
+Enfocada en el uso del DOM, Local Storage y Session Storage.
 
 ---
 
@@ -19,8 +19,6 @@ Este proyecto es una aplicación web interactiva desarrollada como parte de la h
 - HTML5
 - CSS3
 - JavaScript (ES Modules)
-- SPA (Single Page Application) con enrutamiento personalizado
-- Local Storage y Session Storage
 - Hospedaje en [Netlify](https://netlify.com)
 
 ---
